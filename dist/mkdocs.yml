@@ -24,7 +24,7 @@ theme:
       name: Switch to light mode
 nav:
 - Home: index.md
-- Item Locations: item_locations.md
+- TM Locations: item_locations.md
 - Pokemon:
   - 001 - Bulbasaur: pokemon/001-bulbasaur.md
   - 002 - Ivysaur: pokemon/002-ivysaur.md
